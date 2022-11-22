@@ -1,0 +1,76 @@
+,filename,sim_score_without,algo_caption,human caption,bleu_score,meteor_score
+0,01nyshooting-1-videoSixteenByNine3000.png,0.7233868837356567,A man in a black hoodie points a gun at someone who isn't seen.,"hooded and masked person pointing a gun at something, with another hooded person behind them who is holding an object",0.186125,0.249485
+1,"100419-kgo-babba-break-in-help-img_Image_17-00-51,19.jpeg",0.6869226694107056,A person dressed in hoodie tries to break into a white car from the rear window as another person watches.,hooded person peaking through back of a car while another hooded person watches,0.250000,0.218978
+2,11082118_100421-wls-alexis-austin-shootiout-charges-10p-vid.jpeg,0.5768671035766602,A man in a white hoodie kneels down and points a gun at a car.,person in the street pointing their gun at the car next to them,0.200000,0.239110
+3,170108141724-fort-lauderdale-airport-shooting-video-vo-tmz-3-super-169.jpeg,0.4708227515220642,A person in a blue shirt points a gun out in front of him in a building.,man pointing a gun at unknown object in an airport baggage claim,0.176471,0.160000
+4,1_THP_CHP_010622Slug_02471JPG.jpeg,0.5303523540496826,Two persons are pointing guns near cars on the street.,group of people pointing their guns at unknown object,0.200000,0.109890
+5,27460608-0-image-a-45_1587471019853.jpeg,0.48629117012023926,An armed man with a gun pointing it at someone on a public street caught on a security camera.,hooded figure pointing gun at unknown object,0.157895,0.182927
+6,29625092-0-image-a-35_1592222538238.jpeg,0.30244678258895874,people shooting in the street as people watch.,"man crouching and pointing gun across the street and another person behind him, crouching behind a yeild sign with hands raised in apprehension",0.057508,0.146802
+7,402EAE1100000578-0-image-a-17_1494470095883.jpeg,0.4563610553741455,A man in a red hoodie points a gun at another man near a white convertible.,two people pointing a gun at eacher over the car that separates them in a gas station,0.293567,0.332840
+8,44-pct-assault-1200x699.png,0.488308310508728,A man in a black mask points a gun at people who are sitting on a sidewalk.,"masked person pointing gun at 3 people on the street, one of which is a child",0.294118,0.297883
+9,5eef45cb-27ef-494f-8a5a-78b8aebccb0e-large16x9_CassTownshipvandalism.jpeg,0.6219052076339722,A person is kicking in the door of a house.,man kicking a door down and holding a gun,0.300000,0.219780
+10,628ac9ec5d41b9001d313381.jpeg,0.6469796299934387,A man aims a gun at a group of people gathered outside of a building.,hooded person aims gun at group of people in a building who have not noticed his presence ,0.408414,0.285471
+11,700-04929261en_Masterfile.jpeg,0.43521004915237427,A person is spraying paint on the wall.,man in purple sweatshirt doing graffiti on wall ,0.125000,0.062500
+12,7D6RQXEAP5GQBAAICPWI64B6ZA.jpeg,0.5363517999649048,A hoody person is throwing something at a building.,man throwing a rock at a building's wall,0.333333,0.389660
+13,bigstock-Car-Thief-Stealing-To-Break-Gl-320345332-1200x630-1.jpeg,0.4462890028953552,A person in a grey hoodie is damaging a window of a car with a pole.,hooded man smashing a car window with a shovel ,0.312500,0.459794
+14,brooklyn-shooting.jpeg,0.5788000822067261,A man in a red hoodie points a gun at someone on a sidewalk.,hooded person on the side walk pointing their gun at another hooded person running away and a third person is running backwards away from the armed person,0.112891,0.144747
+15,C36ZBLLOKRDQNEYL2NI22UJBNU.jpeg,0.49602630734443665,A person is spray painting grafitti on a wall in an alley.,man spray painting in public space,0.250000,0.387205
+16,dayton-police-approach-rt-ps-190804_hpMain_1x1_992.jpeg,0.6816909313201904,Two men hold guns out in front of them on the dark street.,two men pointing their guns and moving towards an unkown object on the street,0.284911,0.320863
+17,download (1).jpeg,0.7643086910247803,A vandal spray paints graffitti on a white wall.,person spray painting on large wall,0.222222,0.405644
+18,download (11).jpeg,0.04258101060986519,People are standing on the stairway of a building.,students destroying and vandalising classroom chairs and desks,0.000000,0.000000
+19,download (12).jpeg,0.6749811768531799,A man breaks the glass on a building outside.,person shattering a window with a bat,0.111111,0.138889
+20,download (14).jpeg,-0.07797671109437943,A person is holding a long wooden sheet up in front of him.,students throwing and vandalising classroom objects,0.000000,0.074627
+21,download (16).jpeg,0.7554934024810791,A hoody person is breaking the glass door with a hard material.,hooded person shattering a window with an object/weapon,0.250000,0.178571
+22,download (21).jpeg,0.5685162544250488,A person is pointing a gun at someone on a sidewalk.,hooded figure pointing a gun at a parked car,0.454545,0.526087
+23,download (22).jpeg,0.6805275678634644,A masked person is walking with a gun in his hand.,hooded and masked person running through a building carrying a gun,0.363636,0.405455
+24,download (23).jpeg,0.7459791898727417,A man wearing a hat points a gun at a group of people.,hooded person pointing a gun at group of people ,0.384615,0.543735
+25,download (24).jpeg,0.5272773504257202,People are running through the hallway.,person in a building pointing a gun at group of people falling over themselves trying to run away ,0.000000,0.059524
+26,download (9).jpeg,0.40872251987457275,A man in white holds a gun out in front of him in a parking lot.,man walking on sidewalk and looking for something/someone with a rifle in his hand,0.187500,0.140845
+27,hqdefault.jpeg,0.7594343423843384,"By standing on the other side of the glass window, a person throws something that breaks the glass.","person throwing a rock into a window, shattering it",0.166667,0.318813
+28,https___cdn.cnn.com_cnnnext_dam_assets_210618151748-bronx-shooting-video-nypd.jpg,0.3677282929420471,A person dressed in black holds a gun out in front of him in a building.,"hooded and masked person pointing a gun at group of people on the ground, few of which are children",0.207257,0.106952
+29,images (1).jpeg,0.534276008605957,A vandal spray paints on the black wall.,person caught vandalising ,0.000000,0.000000
+30,images (2).jpeg,0.18772679567337036,Two men are looking at something on the wall outside of a building.,"person pointing gun over the roof of a car while the other person is hiding behind car outside the drivers seat, pointing his gun up in the gas station",0.089867,0.115192
+31,images (33).jpeg,0.660309910774231,A person is holding out a gun in front of him in a building.,man with a bag in a building pointing a gun straight at an unkown object,0.266018,0.167785
+32,images (37).jpeg,0.645809531211853,A person is spraying paint on the outer wall of a building.,person drawing on a wall ,0.333333,0.350877
+33,images (4).jpeg,0.8028503656387329,A man in a black hoodie spray paints graffiti on the wall.,hooded person is spraypainting on a wall full of graffiti,0.250000,0.147059
+34,images (40).jpeg,0.878456175327301,A person is spraying paint on wall.,person spray painting on a wall,0.285714,0.731148
+35,images (41).jpeg,0.7713843584060669,A woman in a bandana and jeans spray paints graffiti on the graffiti wall.,woman spray painting on a wall full of graffiti,0.357143,0.448830
+36,images (44).jpeg,0.34866613149642944,people spraying graffitti on the wall of a building.,two people with backpacks kicking a building's window that has lots of graffiti,0.213727,0.119048
+37,images (46).jpeg,0.4966129958629608,A man hits a police car with a stick as others hang around in a protest.,three masked people attack a police car with a stick and their hands and legs,0.375000,0.338484
+38,images (47).jpeg,0.6988298892974854,Angry woman about to throw a stone to break a glass paneled door.,woman throwing a rock at a door window,0.230769,0.524706
+39,images (5).jpeg,0.5235426425933838,A person is spraying paint on the drawing on wall.,kneeling man spraypainting graffiti on a wall,0.100000,0.136986
+40,images (6).jpeg,0.8357342481613159,A person paints a skull on the wall of a building.,man is spray painting a skull onto a wall,0.363636,0.484783
+41,images (8).jpeg,0.23785416781902313,One person is in a black hoodie and the other person is in a grey hoodie.,person in hat writing on wall while another person walks past,0.187500,0.130435
+42,images2.jpeg,0.550413966178894,A hoody person is spraying paint on the wall.,hooded figure crouching and spray painting a skull onto a wall,0.000000,0.236626
+43,Image_1.jpeg,0.560010552406311,People are fighting in the street during the day.,three men fighting each other,0.111111,0.092593
+44,Image_10.jpeg,0.7575403451919556,Two men are fighting in front of a crowd at night in a parking lot.,two men fighting in a crowd,0.333333,0.740741
+45,Image_13.jpeg,0.4952520430088043,People are standing on the beach near the ocean.,people fighting in the beach,0.222222,0.277778
+46,Image_14.jpeg,0.46529221534729004,Group of persons are fighting among them.,a person attempts to hit two person ,0.000000,0.071429
+47,Image_15.jpeg,0.6668745279312134,people rioting on the street during the day.,some people fighting each other in a crowd,0.125000,0.062500
+48,Image_17.jpeg,0.5648754835128784,A man breaks a glass window of a building as rioters look on.,a person is destroying things in a crowd,0.153846,0.117647
+49,Image_19.jpeg,0.4250423312187195,"In the street, a person is punching on the face of another person.",two men fighting each other near a shop,0.076923,0.058824
+50,Image_2.jpeg,0.47766223549842834,Two men are fighting on the street near a white pick-up truck.,"two men fighting, and a woman nearby watching them",0.166667,0.274791
+51,Image_20.png,0.6746252775192261,People are fighting on the street and others are watching it on their phones.,some people fighting in the road,0.142857,0.220588
+52,Image_21.jpeg,0.5046538710594177,Two persons are fighting in the middle of the street.,one person hitting other person in a crowd,0.100000,0.121951
+53,Image_22.jpeg,0.38819828629493713,A group of shirtless men fight on the beach.,a person attempts to hit ther person in the beach with a long stick,0.063750,0.074074
+54,Image_23.jpeg,0.5982974767684937,A person is punching on the face of another person.,a person beating badly other person in a crowd,0.100000,0.109890
+55,Image_26.jpeg,0.64180988073349,Two women wearing black tops fighting in front of a crowd.,two women slapping each others face in a crowd,0.272727,0.404348
+56,Image_28.jpeg,0.5085984468460083,Two people are fighting each other on the street during the day.,a person hitting other person in a crowd,0.083333,0.059524
+57,Image_29.jpeg,0.719841718673706,People are fighting on the street and cars are parked on the side of the road.,some people fighting in the road,0.125000,0.214286
+58,Image_3.jpeg,0.5536398887634277,people are beating a person who is on the ground on the sidewalk.,two men beating a third person,0.230769,0.381426
+59,Image_32.jpeg,0.8521207571029663,Two women are fighting each other in front of a crowd.,two women hitting their face each other in a crowd,0.454545,0.628410
+60,Image_33.png,0.6565994024276733,A person is physically assaulting another person on a sidewalk.,a person hitting other person ,0.300000,0.272727
+61,Image_34.jpeg,0.6250847578048706,Two men fight on the sidewalk as people watch.,two person fighting each other in the market while other people watching them,0.142485,0.158730
+62,Image_35.jpeg,0.20389290153980255,People are fighting on the sidewalk outside of a building.,a person attempts to loot from a shop/bank,0.100000,0.060976
+63,Image_39.jpeg,0.5945849418640137,a man is fighting in the parking lot of a grocery store.,two person fighting each other in the road,0.250000,0.304233
+64,Image_4.jpeg,0.6594480276107788,Two women are fighting in front of a crowd.,two men fighting each other,0.111111,0.185185
+65,Image_40.jpeg,0.49069744348526,Two men fight with baseball fights as onlookers watch.,two person fighting each other with rods in their hands in the crowd,0.071242,0.119048
+66,Image_5.jpeg,0.780548095703125,Two young men are fighting in front of a group of onlookers.,two men hitting each other in a crowd,0.250000,0.238095
+67,Image_8.jpeg,0.7951610684394836,A person is sitting on the stairs and another person is hitting him.,a man slapping other man sitting in stairs,0.153846,0.176471
+68,Image_9.jpeg,0.3656536936759949,A group of people are fighting on the street outside.,three person beating a person in the middle,0.100000,0.121951
+69,maxresdefault.jpeg,0.6694645285606384,A person in a red hoodie points a gun at a car parked on the curb.,hooded man pointing a gun across the street to an approaching car,0.250000,0.201613
+70,maxresdefault1.jpeg,0.5488707423210144,A man wearing a black hoodie points a gun out in front of him in a building.,man pointing his pistol straight at an unkown object,0.058824,0.102041
+71,queens-shooting-02-ap-jef-210801_1627843581558_hpEmbed_16x9_992.jpeg,0.1829519420862198,person shooting on cctv camera on cctv camera on cctv camera on cctv camera on cctv camera on cctv camera on cctv camera on cctv camera on cctv camera on cctv camera on cctv camera on cctv camera on cctv camera,hooded figure running down an alley with a gun pointed straight at an unknown subject,0.000000,0.000000
+72,Screen-Shot-2021-06-21-at-10.51.43-PM-1200x675.jpeg,0.8707235455513,A person in a black hoodie points a gun at a car on the street.,hooded figure pointing a gun at a car,0.333333,0.688059
+73,Unknown3.jpeg,0.8985631465911865,Two men kneel down in front of a door as if trying to break in.,two people kneeling outside locked doors trying to break in,0.266667,0.545190
+74,Unknown4.jpeg,0.6885915994644165,an art drawing on the side wall of a building.,two people spray painting on the side of a building,0.500000,0.484000
